@@ -11,7 +11,9 @@ Backend: https://task-manager-backend-kr9e.onrender.com
 ## Features
 - JWT Authentication
 - User-specific tasks
-- Create / Update / Delete tasks
+- Create tasks
+- Update task status (Mark Done / Undo)
+- Delete tasks
 - Protected routes
 - Clean UI (React + Tailwind)
 
